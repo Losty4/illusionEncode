@@ -8,7 +8,7 @@ JavaScript, Java, Python, Lua, C+ +, C,  Ruby, Mysql, entre outras linguagens.
 
 Estou  estudando atualmente.
 
-Golang
+Golang, Assembly
 
 Meus ambientes. 
 
