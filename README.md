@@ -1,4 +1,4 @@
-# illusionEncode
+# LostyIts
 
 Seja bem vindo ao meu repositório!
 
