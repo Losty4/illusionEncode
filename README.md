@@ -1,4 +1,4 @@
-# LostyIts
+# Lostyx
 
 Seja bem vindo ao meu repositório!
 
